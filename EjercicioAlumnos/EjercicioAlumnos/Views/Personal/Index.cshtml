@@ -1,0 +1,149 @@
+﻿
+@{
+    ViewBag.Title = "Personal Docente y No Docente";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Personal Docente y No Docente</h2>
+@*AGREGAMOS ESTE CSS PARA LA PAGINACION *@
+<link href="~/Content/datatables.css" rel="stylesheet" />
+@*AGREGAMOS ESTE CSS PARA SEÑALAR LOS DATOS QUE SON OBLIGATORIOS*@
+<link href="~/Content/Obligatorio.css" rel="stylesheet" />
+@*AGREGAMOS ESTE CSS PARA EL MANEJO DE LOS CONTROLES DE FECHA *@
+<link href="~/Content/jquery-ui.min.css" rel="stylesheet" />
+@*AGREGAMOS ESTE CSS PARA EL DISEÑO *@
+<link href="~/Content/adminlte.min.css" rel="stylesheet" />
+@*AGREGAMOS ESTE CSS PARA EL MODAL *@
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+
+@*GENERAMOS EL MENSAJE Y EL TEXTBOX PARA LA BUSQUEDA *@
+@*LOS LI SON PARA ORDENAR LOS CONTROLES Y PONER UNOS DEBAJOS DE OTROS*@
+<li>
+    <label>Ingrese Apellido a Buscar...:</label>
+    <input type="text" id="txtbuscar" />
+    @*GENERAMOS EL MENSAJE Y EL TEXTBOX PARA LA BUSQUEDA  X DOCUMENTO*@
+    <label>Ingrese Nro de Documento a Buscar...:</label>
+    <input type="text" id="txtbuscardoc" />
+</li>
+
+<li>
+    @*GENERAMOS EL MENSAJE Y EL COMBO PARA LA BUSQUEDA *@
+    <label>Seleccione el Cargo a Buscar...: </label><select id="cbotipopersonal"></select>
+
+    @*@*AGREGAMOS EL CLASS A LOS BOTONES PARA DARLES FORMATO EN BOOSTRAP *@
+    @*<input type="button" id="btnbuscar" value="Buscar" class="btn btn-success" />*@*
+
+    @*GENERAMOS EL TEXTBOX PARA LA LIMPIEZA *@
+    <input type="button" id="btnlimpiar" value="Limpiar" class="btn btn-primary" />
+</li>
+
+
+
+<div id="tabla">
+
+</div>
+
+@*ASIGNAMOS LA FUNCION onclick="AbrirFormulario(0)" PORQUE CUANDO ES NUEVO NO DEBE BUSCAR NADA*@
+<button type="button" onclick="AbrirFormulario(0)" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Agregar</button>
+@Html.ActionLink("Volver", "Index", "PaginaPrincipal")
+
+<!-- Modal -->
+<!-- AGREGO EL TABINDEX="-1" PARA QUE SE PUEDA CERRAR CON ESC -->
+<!-- ESTA SERIA TODA LA PANTALLA COMPLETA CON FONDO NEGRO -->
+<div id="myModal" class="modal" role="dialog" tabindex="-1">
+    @*<div class="modal-dialog modal-lg modal-dialog-centered">*@
+    <!-- ESTA SERIA TODA LA PANTALLA QUE VA CON EL FONDO BLANCO AGREGAMOS style="width:1250px;" PARA QUE SE MAS ANCHA-->
+    <div class="modal-dialog modal-lg">
+        @*<div class="modal-dialog modal-lg" style="width:1250px;">*@
+        <!-- Modal content-->
+        <!-- ESTA SERIA LA PANTALLA QUE TIENE TODO EL CONTENIDO DE LOS CONTROLES -->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+            @*SE AGREGA EL TABLE RESPONSIVE PARA DISPOSITIVOS MOVILES*@
+            <div class="modal-body">
+                <div class="card card-primary">
+                    <div class="card-header">
+                        <h3 class="card-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Datos Personales</font></font></h3>
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-sm-10">
+                                <div class="form-group">
+                                    <input type="text" id="txtidpersonal" class="form-control limpia col-sm-5" placeholder="Id Personal" disabled="">
+                                    <select id="cbotipopersonaldocente" class="limpia col-sm-5"></select>
+                                    <div class="input-group">
+                                        <select id="cbodocumento" class="limpia col-sm-5"> </select>
+                                        <input type="text" id="txtdocumento" class="form-control limpia" placeholder="NroDocumento" />
+                                        <input type="text" id="txtcuitcuil" class="form-control limpia" placeholder="Cuit/Cuil" />
+                                    </div>
+                                    <input type="text" id="txtapellido" class="form-control limpia" onKeyUp="document.getElementById(this.id).value=document.getElementById(this.id).value.toUpperCase()" placeholder="Apellido" />
+                                    <input type="text" id="txtnombre" class="form-control limpia " onKeyUp="document.getElementById(this.id).value=document.getElementById(this.id).value.toUpperCase()" placeholder="Nombres" />
+                                    <select id="cbosexo" class="limpia col-sm-5"> </select>
+                                    <input type="text" id="fechanacimiento" class="form-control limpia  col-sm-5" placeholder="Fecha Nacimiento" />
+                                    <div class="input-group">
+                                        <select id="cbociudad" class="limpia col-sm-4"> </select>
+                                        <select id="cbopcia" class="limpia col-sm-4"> </select>
+                                        <select id="cbopais" class="limpia col-sm-4"> </select>
+                                    </div>
+                                    <input type="text" id="txtdireccion" class="form-control limpia" onKeyUp="document.getElementById(this.id).value=document.getElementById(this.id).value.toUpperCase()" placeholder="Direccion" />
+                                    <input type="text" id="txtbarrio" class="form-control limpia" onKeyUp="document.getElementById(this.id).value=document.getElementById(this.id).value.toUpperCase()" placeholder="Barrio" />
+                                    <div class="input-group">
+                                        <select id="cbociudadresidencia" class="limpia  col-sm-4"> </select>
+                                        <select id="cbopciaresidencia" class="limpia  col-sm-4"> </select>
+                                        <select id="cbopaisresidencia" class="limpia  col-sm-4"> </select>
+                                    </div>
+                                    <input type="text" id="txtmail" class="form-control limpia" placeholder="e-mail" />
+                                    <div class="input-group">
+                                        <input type="text" class="limpia  col-sm-5" id="txttelefono" placeholder="Telefono" />
+                                        <input type="text" class="limpia  col-sm-5" id="txtcelular" placeholder="Celular" />
+                                    </div>
+                                    <input type="text" id="fechaalta" class="form-control limpia col-sm-5" placeholder="Fecha Alta" />
+                                    <input type="text" id="fechamodificacion" class="form-control limpia col-sm-5" placeholder="Fecha Actualizacion" />
+                                    <div class="input-group">
+                                        <select id="cbotipousuario" class="limpia col-sm-4"> </select>
+                                    </div>
+                                    <img id="imgfoto" width="100" height="100" style="border:1px solid" />
+                                    <textarea id="txtobservaciones" class="form-control limpia" rows="5" placeholder="Observaciones"></textarea>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    @*ESTE ES EL BOTON ORIGINAL QUE SE MODIFICA PARA AGREGAR LOS VALIDADORES*@
+                    @*SACAMOS data-dismiss="modal" PARA QUE NO SE CIERRE EL FORMULARIO AL DAR ACEPTAR*@
+                    @*<button type="button" id="btnaceptar" class="btn btn-primary" data-dismiss="modal">Guardar</button>*@
+                    @*SACAMOS data-dismiss="modal" PARA QUE NO SE CIERRE EL FORMULARIO AL DAR ACEPTAR*@
+                    @*AGREGAMOS EL EVENTO ONCLICK Agregar(), cuando se ejecute va al SCRIPT*@
+                    <button type="button" onclick="Agregar()" class="btn btn-primary">Guardar</button>
+                    <button type="button" id="btncancelar" class="btn btn-danger" data-dismiss="modal">Cancelar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section scripts
+{
+    @*AGREGAMOS ESTE JS PARA EL MODAL *@
+    <script src="~/Scripts/bootstrap.js"></script>
+
+    @*AGREGAMOS ESTE SCRIPT PARA LA PAGINACION*@
+    <script src="~/Scripts/adminlte.min.js"></script>
+
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+
+    @*AGREGAMOS ESTE SCRIPT PARA EL MANEJO DEL CONTROL DE FECHAS JQUERY-UI*@
+    <script src="~/Scripts/datatables.min.js"></script>
+
+    @*AGREGAMOS ESTE SCRIPT PARA EL MANEJO DEL CONTROL DE FECHAS JQUERY-UI*@
+    <script src="~/Scripts/jquery-ui.min.js"></script>
+
+    @*AGREGAMOS ESTE SCRIPT PARA LA GENERACION DE LOS DATOS DEL ALUMNO*@
+    <script src="~/Scripts/Personal.js"></script>
+}
+

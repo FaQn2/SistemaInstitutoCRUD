@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Gestion Integral de Alumnos</title>
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Font Awesome -->
+    <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+    <!-- Theme style -->
+    @*<link rel="stylesheet" href="../../dist/css/adminlte.min.css">*@
+    <link href="~/Content/adminlte.min.css" rel="stylesheet" />
+
+</head>
+<body class="container">
+
+    <div class="content">
+        @RenderBody()
+    </div>
+    <!-- /.content -->
+    <!-- /.content-wrapper -->
+    <footer class="main-footer">
+        <div class="float-right d-none d-sm-block">
+            <b>Version</b> 3.0.4
+        </div>
+        <strong>Copyright &copy; 2020 - Sistemas de Gestion Alumnos</a>.</strong> Todos los Derechos Reservados
+    </footer>
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+
+    <script src="~/Scripts/adminlte.min.js"></script>
+
+    @RenderSection("scripts", required: false)
+</body>
+
+</html>

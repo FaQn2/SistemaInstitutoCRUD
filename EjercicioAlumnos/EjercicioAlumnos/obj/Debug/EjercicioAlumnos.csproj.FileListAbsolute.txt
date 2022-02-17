@@ -1,0 +1,332 @@
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\EjercicioAlumnos.dll.config
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\EjercicioAlumnos.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\EjercicioAlumnos.pdb
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csc.exe
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csc.exe.config
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csc.rsp
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csi.exe
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csi.exe.config
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csi.rsp
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.AppContext.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Collections.Immutable.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Console.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.IO.Compression.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.IO.FileSystem.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.IO.Pipes.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.AccessControl.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Claims.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.ValueTuple.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Xml.XPath.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\vbc.exe
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\vbc.exe.config
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\vbc.rsp
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\VBCSCompiler.exe
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\VBCSCompiler.exe.config
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\Antlr3.Runtime.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\Microsoft.Web.Infrastructure.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\Newtonsoft.Json.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Helpers.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Mvc.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Optimization.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Razor.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\WebGrease.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Helpers.xml
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Mvc.xml
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Optimization.xml
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Razor.xml
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.xml
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\Newtonsoft.Json.xml
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\Antlr3.Runtime.pdb
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.Helpers.resources.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.Mvc.resources.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.Optimization.resources.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.Razor.resources.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.WebPages.resources.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\obj\Debug\EjercicioAlumnos.csprojAssemblyReference.cache
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\obj\Debug\EjercicioAlumnos.csproj.CoreCompileInputs.cache
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\obj\Debug\EjercicioAlumnos.csproj.CopyComplete
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\obj\Debug\EjercicioAlumnos.dll
+C:\Proyectos\Escuela\EjercicioAlumnos\EjercicioAlumnos\obj\Debug\EjercicioAlumnos.pdb
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\EjercicioAlumnos.dll.config
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\EjercicioAlumnos.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\EjercicioAlumnos.pdb
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csc.exe
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csc.exe.config
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csc.rsp
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csi.exe
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csi.exe.config
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csi.rsp
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.AppContext.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Collections.Immutable.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Console.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.IO.Compression.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.IO.FileSystem.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.IO.Pipes.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Reflection.Metadata.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.AccessControl.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Claims.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.ValueTuple.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Xml.XPath.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\vbc.exe
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\vbc.exe.config
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\vbc.rsp
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\VBCSCompiler.exe
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\VBCSCompiler.exe.config
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\Antlr3.Runtime.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\Microsoft.Web.Infrastructure.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\Newtonsoft.Json.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Helpers.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Mvc.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Optimization.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Razor.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.Deployment.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.Razor.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\WebGrease.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Helpers.xml
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Mvc.xml
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Optimization.xml
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Razor.xml
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.xml
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.Deployment.xml
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.Razor.xml
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\Newtonsoft.Json.xml
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\Antlr3.Runtime.pdb
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.Helpers.resources.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.Mvc.resources.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.Optimization.resources.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.Razor.resources.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.WebPages.resources.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\obj\Debug\EjercicioAlumnos.csproj.AssemblyReference.cache
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\obj\Debug\EjercicioAlumnos.csproj.CoreCompileInputs.cache
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\obj\Debug\EjercicioAlumnos.csproj.CopyComplete
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\obj\Debug\EjercicioAlumnos.dll
+D:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\obj\Debug\EjercicioAlumnos.pdb
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\EjercicioAlumnos.dll.config
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\EjercicioAlumnos.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\EjercicioAlumnos.pdb
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csc.exe
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csc.exe.config
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csc.rsp
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csi.exe
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csi.exe.config
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csi.rsp
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.AppContext.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Collections.Immutable.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Console.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.IO.Compression.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.IO.FileSystem.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.IO.Pipes.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Reflection.Metadata.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.AccessControl.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Claims.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.ValueTuple.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Xml.XPath.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\vbc.exe
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\vbc.exe.config
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\vbc.rsp
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\VBCSCompiler.exe
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\VBCSCompiler.exe.config
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\Antlr3.Runtime.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\Microsoft.Web.Infrastructure.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\Newtonsoft.Json.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Helpers.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Mvc.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Optimization.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Razor.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.Deployment.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.Razor.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\WebGrease.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Helpers.xml
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Mvc.xml
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Optimization.xml
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Razor.xml
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.xml
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.Deployment.xml
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.Razor.xml
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\Newtonsoft.Json.xml
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\Antlr3.Runtime.pdb
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.Helpers.resources.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.Mvc.resources.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.Optimization.resources.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.Razor.resources.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.WebPages.resources.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.WebPages.Deployment.resources.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.WebPages.Razor.resources.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\obj\Debug\EjercicioAlumnos.csproj.AssemblyReference.cache
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\obj\Debug\EjercicioAlumnos.csproj.CoreCompileInputs.cache
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\obj\Debug\EjercicioAlumnos.csproj.CopyComplete
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\obj\Debug\EjercicioAlumnos.dll
+G:\Archivos Facu\Trabajos Practicos\3 año\c#\EjercicioAlumnos\EjercicioAlumnos\obj\Debug\EjercicioAlumnos.pdb
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\obj\Debug\EjercicioAlumnos.csproj.AssemblyReference.cache
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\obj\Debug\EjercicioAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\obj\Debug\EjercicioAlumnos.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\obj\Debug\EjercicioAlumnos.pdb
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\EjercicioAlumnos.dll.config
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\EjercicioAlumnos.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\EjercicioAlumnos.pdb
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csc.exe
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csc.exe.config
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csc.rsp
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csi.exe
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csi.exe.config
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\csi.rsp
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.AppContext.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Console.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.IO.Compression.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.IO.Pipes.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Claims.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.ValueTuple.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Xml.XPath.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\vbc.exe
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\vbc.exe.config
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\vbc.rsp
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\VBCSCompiler.exe
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\Antlr3.Runtime.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\Newtonsoft.Json.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Helpers.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Mvc.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Optimization.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Razor.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.Razor.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\WebGrease.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Helpers.xml
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Mvc.xml
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Optimization.xml
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.Razor.xml
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.xml
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\System.Web.WebPages.Razor.xml
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\Newtonsoft.Json.xml
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\Antlr3.Runtime.pdb
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.Helpers.resources.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.Mvc.resources.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.Optimization.resources.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.Razor.resources.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.WebPages.resources.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\facu_\Desktop\PROGRAMACION FACU\EjercicioAlumnos\EjercicioAlumnos\obj\Debug\EjercicioAlumnos.csproj.CopyComplete

@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="EjercicioAlumnos" Class="DatosAlumnosDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=DESKTOP-L24I3NB\SQLEXPRESS;Initial Catalog=EjercicioAlumnos;User ID=sa" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="EjercicioAlumnosConnectionString4" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Alumno" Member="Alumno">
+    <Type Name="Alumno">
+      <Column Name="a_idalumno" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="a_id_tipo_documento" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="a_nrodocumento" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="a_nombre" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="a_apellido" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="a_fecha_nacimiento" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="a_sexo" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="a_direccion" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="a_id_ciudadnacimiento" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="a_idpcianacimiento" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="a_idpaisnacimiento" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="a_mail" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="a_cuil" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="a_telefonofijo" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="a_telefonocelular" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="a_contactoemergencia" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="a_direccionresidencia" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="a_idciudadresidencia" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="a_pciaresidencia" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="a_paisresidencia" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="a_telefonofijoresidencia" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="a_telefonocelularresidencia" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="a_activo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="a_fechaaltasistema" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="a_fechaultimaactualizacion" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="a_foto" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Nivelestudio" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Idtipousuario" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="a_Idempresa" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="a_idmodoingreso" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="a_idestadoalumno" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Association Name="Ciudad_Alumno" Member="Ciudad" ThisKey="a_id_ciudadnacimiento" OtherKey="id_ciudad" Type="Ciudad" IsForeignKey="true" />
+      <Association Name="Ciudad_Alumno1" Member="Ciudad1" ThisKey="a_idciudadresidencia" OtherKey="id_ciudad" Type="Ciudad" IsForeignKey="true" />
+      <Association Name="Pais_Alumno" Member="Pais" ThisKey="a_idpaisnacimiento" OtherKey="Id_pais" Type="Pais" IsForeignKey="true" />
+      <Association Name="Pais_Alumno1" Member="Pais1" ThisKey="a_paisresidencia" OtherKey="Id_pais" Type="Pais" IsForeignKey="true" />
+      <Association Name="Provincia_Alumno" Member="Provincia" ThisKey="a_idpcianacimiento" OtherKey="id_provincia" Type="Provincia" IsForeignKey="true" />
+      <Association Name="Provincia_Alumno1" Member="Provincia1" ThisKey="a_pciaresidencia" OtherKey="id_provincia" Type="Provincia" IsForeignKey="true" />
+      <Association Name="TipoUsuario_Alumno" Member="TipoUsuario" ThisKey="Idtipousuario" OtherKey="Id_tipousuario" Type="TipoUsuario" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Usuario" Member="Usuario">
+    <Type Name="Usuario">
+      <Column Name="Id_usuario" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NombreUsuario" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Contraseña" Type="System.String" DbType="NVarChar(70)" CanBeNull="true" />
+      <Column Name="TipoUsuario" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Id_AlumnoPersonal" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="IdRol" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Activo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Nivel_Estudio" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Id_empresa" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Nombres" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Apellido" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ciudad" Member="Ciudad">
+    <Type Name="Ciudad">
+      <Column Name="id_ciudad" Type="System.Int64" DbType="BigInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="Activo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Id_empresa" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Association Name="Ciudad_Alumno" Member="Alumno" ThisKey="id_ciudad" OtherKey="a_id_ciudadnacimiento" Type="Alumno" />
+      <Association Name="Ciudad_Alumno1" Member="Alumno1" ThisKey="id_ciudad" OtherKey="a_idciudadresidencia" Type="Alumno" />
+      <Association Name="Ciudad_PersonalDocenteNoDocente" Member="PersonalDocenteNoDocente" ThisKey="id_ciudad" OtherKey="Idciudad" Type="PersonalDocenteNoDocente" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Pais" Member="Pais">
+    <Type Name="Pais">
+      <Column Name="Id_pais" Type="System.Int64" DbType="BigInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Descripcion" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Activo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Pais_Alumno" Member="Alumno" ThisKey="Id_pais" OtherKey="a_idpaisnacimiento" Type="Alumno" />
+      <Association Name="Pais_Alumno1" Member="Alumno1" ThisKey="Id_pais" OtherKey="a_paisresidencia" Type="Alumno" />
+      <Association Name="Pais_PersonalDocenteNoDocente" Member="PersonalDocenteNoDocente" ThisKey="Id_pais" OtherKey="Idpais" Type="PersonalDocenteNoDocente" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PersonalDocenteNoDocente" Member="PersonalDocenteNoDocente">
+    <Type Name="PersonalDocenteNoDocente">
+      <Column Name="Id_personal" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Idtipopersonal" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Nrodocumento" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="Tipodocumento" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Cuil" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Apellido" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Nombre" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Sexo" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Fechanacimiento" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Telefonocelular" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Telefonofijo" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Direccion" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Barrio" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Idciudad" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Idprovincia" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Idpais" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Observaciones" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Activo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Fechaalta" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Fechaactualizacion" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Foto" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Ciudadnacimiento" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Provincianacimiento" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Paisnacimiento" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Nivelestudio" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Idtipousuario" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Id_empresa" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Association Name="Ciudad_PersonalDocenteNoDocente" Member="Ciudad" ThisKey="Idciudad" OtherKey="id_ciudad" Type="Ciudad" IsForeignKey="true" />
+      <Association Name="Pais_PersonalDocenteNoDocente" Member="Pais" ThisKey="Idpais" OtherKey="Id_pais" Type="Pais" IsForeignKey="true" />
+      <Association Name="Provincia_PersonalDocenteNoDocente" Member="Provincia" ThisKey="Idprovincia" OtherKey="id_provincia" Type="Provincia" IsForeignKey="true" />
+      <Association Name="Sexo_PersonalDocenteNoDocente" Member="Sexo1" ThisKey="Sexo" OtherKey="Id_sexo" Type="Sexo" IsForeignKey="true" />
+      <Association Name="TipoDocumento_PersonalDocenteNoDocente" Member="TipoDocumento1" ThisKey="Tipodocumento" OtherKey="Id_tipodocumento" Type="TipoDocumento" IsForeignKey="true" />
+      <Association Name="TipoUsuario_PersonalDocenteNoDocente" Member="TipoUsuario" ThisKey="Idtipousuario" OtherKey="Id_tipousuario" Type="TipoUsuario" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Provincia" Member="Provincia">
+    <Type Name="Provincia">
+      <Column Name="id_provincia" Type="System.Int64" DbType="BigInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Descripcion" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Activo" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Association Name="Provincia_Alumno" Member="Alumno" ThisKey="id_provincia" OtherKey="a_idpcianacimiento" Type="Alumno" />
+      <Association Name="Provincia_Alumno1" Member="Alumno1" ThisKey="id_provincia" OtherKey="a_pciaresidencia" Type="Alumno" />
+      <Association Name="Provincia_PersonalDocenteNoDocente" Member="PersonalDocenteNoDocente" ThisKey="id_provincia" OtherKey="Idprovincia" Type="PersonalDocenteNoDocente" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Sexo" Member="Sexo">
+    <Type Name="Sexo">
+      <Column Name="Id_sexo" Type="System.Int64" DbType="BigInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Descripcion" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Activo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Sexo_PersonalDocenteNoDocente" Member="PersonalDocenteNoDocente" ThisKey="Id_sexo" OtherKey="Sexo" Type="PersonalDocenteNoDocente" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TipoDocumento" Member="TipoDocumento">
+    <Type Name="TipoDocumento">
+      <Column Name="Id_tipodocumento" Type="System.Int64" DbType="BigInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Descripcion" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Activo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="TipoDocumento_PersonalDocenteNoDocente" Member="PersonalDocenteNoDocente" ThisKey="Id_tipodocumento" OtherKey="Tipodocumento" Type="PersonalDocenteNoDocente" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TipoPersonal" Member="TipoPersonal">
+    <Type Name="TipoPersonal">
+      <Column Name="Id_tipopersonal" Type="System.Int64" DbType="BigInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Descripcion" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Activo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Nivelestudio" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TipoUsuario" Member="TipoUsuario">
+    <Type Name="TipoUsuario">
+      <Column Name="Id_tipousuario" Type="System.Int64" DbType="BigInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Activo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Identificador" Type="System.Char" DbType="NChar(1)" CanBeNull="true" />
+      <Association Name="TipoUsuario_Alumno" Member="Alumno" ThisKey="Id_tipousuario" OtherKey="Idtipousuario" Type="Alumno" />
+      <Association Name="TipoUsuario_PersonalDocenteNoDocente" Member="PersonalDocenteNoDocente" ThisKey="Id_tipousuario" OtherKey="Idtipousuario" Type="PersonalDocenteNoDocente" />
+    </Type>
+  </Table>
+</Database>
